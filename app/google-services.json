@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663897199193",
+    "firebase_url": "https://androidtofirebase-8ef1d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "androidtofirebase-8ef1d",
+    "storage_bucket": "androidtofirebase-8ef1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663897199193:android:e6b7bf6c98443ddaf91748",
+        "android_client_info": {
+          "package_name": "com.example.input_weather_predictor_tofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663897199193-l8gnqhdq979d67jo5hu94j6e9ie5bo21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.input_weather_predictor_tofirebase",
+            "certificate_hash": "471152ce515ff47b29c23a573d0c347b2eb90e4d"
+          }
+        },
+        {
+          "client_id": "663897199193-l19gcdems0uvk6r1gk6f8aqu7h1ej0po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFHk1fBy2S0XJs3hYXPl-xEYMlEaLTkjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663897199193-l19gcdems0uvk6r1gk6f8aqu7h1ej0po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather by Bagas Restu</string>
+    <string name="hello_world">Hello Square World!</string>
+    <string name="have_fun_with_your_day">Have fun with your day</string>
+    <string name="find_out_your_weather_today">Find out your weather today</string>
+    <string name="weather">WEATHER</string>
+    <string name="todo">TODO</string>
+    <string name="description">LetsGO</string>
+</resources>
